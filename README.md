@@ -82,4 +82,4 @@ Potential improvements include:
 - Exploring interaction effects between features
 
 For the full analysis see the notebook: \
--> [notebook/analysis_houseprices.ipynb](https://github.com/kubaamarczak/house-price-prediction-system/blob/main/notebooks/analysis_houseprices.ipynb)
+-> [notebook/analysis_houseprices.ipynb](https://github.com/kubaamarczak/house-price-prediction-system/blob/main/notebook/analysis_houseprices.ipynb)
