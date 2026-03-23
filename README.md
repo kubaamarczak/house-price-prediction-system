@@ -5,7 +5,7 @@ This project focuses on predicting house prices using both linear and non-linear
 
 ## Dataset
 The dataset contains information about residential properties, including features such as living area, number of bedrooms, construction year, and renovation status. \
-The target variable is the house price. \
+The target variable is the house price.
 
 The dataset used in this project is available on Kaggle: \
 -> https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
